@@ -54,7 +54,6 @@ int main() {
     imprimirElementos(lista);
 
     salvarDados(lista, "produtos.txt");
-    lista = excluirLista(lista);
     return 0;
 }
 

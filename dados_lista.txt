@@ -1,0 +1,2 @@
+1, "Paracetamol", 5.99, 100, "12/2025", "Analgesico"
+2, "Ibuprofeno", 9.49, 50, "06/2024", "Antiinflamatorio"
